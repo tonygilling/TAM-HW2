@@ -1,6 +1,7 @@
 /*jslint node:true plusplus:true vars:true nomen:true */
 /*global describe:true, expect: true, it:true*/
 
+// A change
 // More information on Expect.js at https://github.com/LearnBoost/expect.js
 (function () {
     "use strict";
